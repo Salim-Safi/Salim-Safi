@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from France</h3>
 
 # 💫 About Me:
-🔭 I’m currently working at Quadran<br>👨‍💻 All of my projects are available at https://salimbenisafi.netlify.app/<br>📫 How to reach me salimbeni.safi@gmail.com
+🔭 I’m currently working at appYuser<br>👨‍💻 All of my projects are available at https://salimbeni-safi.netlify.app/<br>📫 How to reach me salimbeni.safi@gmail.com
 
 
 # 💻 Tech Stack:
